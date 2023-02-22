@@ -1,2 +1,2 @@
 # Titanic
-Repository for Kaggle ML Chalenge Titanic
+Repository for Kaggle ML Challenge Titanic
